@@ -1,3 +1,3 @@
 <?php
-phpinfo();
+echo "This is First GitHub Upload";
 ?>
